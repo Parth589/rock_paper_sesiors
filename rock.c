@@ -7,6 +7,8 @@ int main()
 {
     int i = 0, playerscore = 0, computerscore = 0;
 
+
+
     char name[20];
     clrscr();
     printf(" Enter Your Name:  ");
